@@ -11,6 +11,8 @@ as they are an extension of Markov chains.
 ___
 ### Problem Statement:
 
+![alt text](https://github.com/luccianozz/Markov-Decision-Process-AI/blob/main/s.png?raw=true)
+
 We need to decide what proportion of salmons to catch in a year in a specific area maximizing the longer term 
 return. Each salmon generates a fixed amount of dollar. But if a large proportion of salmons are caught then the 
 yield of the next year will be lower. We need to find the optimum portion of salmons to catch to maximize the return 
